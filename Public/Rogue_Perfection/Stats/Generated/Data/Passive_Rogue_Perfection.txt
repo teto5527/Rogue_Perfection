@@ -1,4 +1,4 @@
-new entry "Passive_Potion_Master"
+new entry "Passive_Poison_Master"
 type "PassiveData"
 data "DisplayName" "h1b917912gb99bg4808g9bacg1d5dc88f7013;1"
 data "Description" "hf077b743ge406g4b34ga108g5c43295022ea;1"
